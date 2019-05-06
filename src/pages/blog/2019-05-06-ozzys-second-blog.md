@@ -1,14 +1,4 @@
----
-templateKey: blog-post
-title: Ozzy's Second Blog
-date: 2019-05-06T17:43:08.466Z
-description: This is about something totally different
-featuredpost: false
-featuredimage: /img/177139_f07d59310f1b41ca5bbd9b57923ceb9c.jpeg
-tags:
-  - gatsby
-  - coolness
----
+
 # Hello everyone, again
 
 I want to tell ytou abvout bla bla bla.
