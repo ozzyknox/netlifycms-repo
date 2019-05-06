@@ -25,6 +25,6 @@ Adding some new markdown via github directly.
 
 
 
-![Some handsome guy](/img/177139_f07d59310f1b41ca5bbd9b57923ceb9c.jpeg "Cool dude")
+![Some handsome guy](https://raw.githubusercontent.com/ozzyknox/netlifycms-repo/master/static/img/177139_f07d59310f1b41ca5bbd9b57923ceb9c.jpeg "Cool dude")
 
 This is a real handsome guy that I met.
