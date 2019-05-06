@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Ozzy's First Blog
 date: 2019-05-06T14:43:08.466Z
 description: This is about the man and the dude...
-featuredpost: true
+featuredpost: false
 featuredimage: /img/177139_f07d59310f1b41ca5bbd9b57923ceb9c.jpeg
 tags:
   - gatsby
@@ -20,6 +20,8 @@ I want to tell ytou abvout bla bla bla.
 ## New Section
 
 Adding some new markdown via github directly.
+
+### 3rd Header
 
 
 
